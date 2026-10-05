@@ -1,6 +1,6 @@
 {
-    "name":  "ccgui-prompt-enhancer",
-    "private":  true,
-    "type":  "module",
-    "version":  "0.3.2"
+  "name": "ccgui-prompt-enhancer",
+  "private": true,
+  "type": "module",
+  "version": "0.3.3"
 }
