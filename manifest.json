@@ -1,0 +1,19 @@
+{
+    "id":  "prompt-enhancer",
+    "name":  "提示词增强",
+    "version":  "0.3.2",
+    "minAppVersion":  "1.1.0",
+    "sdkVersion":  "^0.3.15",
+    "author":  "wszbest68-gif",
+    "description":  "DeepSeek 提示词增强：配置保存在本机插件私有存储，界面极简，不自动发送。",
+    "tier":  "js",
+    "permissions":  [
+                        "events",
+                        "ui:composer-status",
+                        "ui:settings-section",
+                        "composer:draft",
+                        "theme",
+                        "storage",
+                        "network:api.deepseek.com"
+                    ]
+}

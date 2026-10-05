@@ -1,0 +1,4 @@
+node_modules/
+*.bak
+tests/security-scan.json
+tests/*.txt
